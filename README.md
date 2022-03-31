@@ -2,4 +2,4 @@
 
 Hello World,
 
-I am P.V.Saket. I am intyerested in learning Python for Data Science.
+I am P.V.Saket. I am interested in learning Python for Data Science.
